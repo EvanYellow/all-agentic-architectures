@@ -1,7 +1,9 @@
 langchain
 langgraph
+langchain-openai
 langchain-nebius
 rich
 python-dotenv
 langchain-community
 langchain-tavily
+tavily-python
